@@ -1,4 +1,4 @@
-Este projeto tem dois diretórios(exemplos e vendor), um com exemplos de PHP e outro com o vendor, para quem não conseguir instalar o PHPSpreadSheet com o composer.
+Este projeto tem dois exemplos de PHP e um diretório compactado com o vendor, para quem não conseguir instalar o PHPSpreadSheet com o composer.
 
 Exemplo geraexcel = Exemplo de escrita de Planilha xls em PHP
 Exemplo = leexcel Exemplo de leitura de Planilha xls em PHP
